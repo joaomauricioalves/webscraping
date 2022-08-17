@@ -58,9 +58,6 @@ def main():
     remetente = 'email@emailvalidodoremetente.com.br'
     destinatarios = ['teste1@teste.com.br', 'teste2@teste2.com.br']
 
-    destinatarios = ['teste1@teste.com.br', 'teste2@teste2.com.br']
-
-
     tam = len(destinatarios)
     i = 0
     dest = []
