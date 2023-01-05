@@ -1,4 +1,4 @@
-# webscraping
+# WEBSCRAPING
 
 <p>O código ele faz consulta nos sites do Sempre Update e It's Foss, que trazem notícias do mundo linux e open source.</p>
 <p>Uma sugestão de aplicação é rodar um sistema operacional linux, sugiro as distros da família Debian, como o Ubuntu ou o próprio Debian.</p>
